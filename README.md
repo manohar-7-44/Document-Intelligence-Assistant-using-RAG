@@ -97,7 +97,7 @@ README.md
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/pardhiva23/VeStaff_RAG_Assignment.git
 cd VeStaff_RAG_Assignment
 ```
 
