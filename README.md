@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Retrieval-Augmented Generation (RAG) system built for the VeStaff Junior AI Developer Assignment.
+This project is a Retrieval-Augmented Generation (RAG) system built for the VeStaff Junior AI Developer Assignments.
 
 The application enables users to ask questions about the AWS Customer Agreement and receive context-aware answers grounded in the document content. It combines document retrieval, semantic search, large language models, SQL logging, and analytics.
 
